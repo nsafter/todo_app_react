@@ -1,0 +1,60 @@
+.pill {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 25px;
+  font-size: 0.9rem;
+}
+
+.high {
+  background-color: #dc3535;
+  color: white;
+  width: 95.7px;
+}
+
+.middle {
+  background-color: #f49d1a;
+}
+
+.low {
+  background-color: #54b435;
+  width: 95.2px;
+  color: white;
+}
+
+.table {
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 65%);
+  margin: auto;
+  width: 75%;
+  border-radius: 5px;
+}
+
+h1 {
+  font-family: "Kenia", cursive;
+  margin-top: 30px;
+  font-size: 90px;
+  text-decoration: underline;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(45deg, #fdfffd 35%, #acc7f7 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.itemclass {
+  font-family: "Source Code Pro", monospace;
+  /* font-family: "Playfair Display", serif; */
+  /* font-family: "Pacifico", cursive; */
+  font-size: 1.3rem;
+}
+
+.btn-dark,
+.btn-info {
+  font-family: "Pacifico", cursive;
+  font-size: 1.5rem;
+}

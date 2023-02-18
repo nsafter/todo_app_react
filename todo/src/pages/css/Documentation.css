@@ -1,0 +1,23 @@
+.docuContainer {
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  margin: auto;
+  width: 70%;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+.docuContent {
+  font-family: "Pacifico", cursive;
+  font-size: 1.6rem;
+}
+
+.fa-brands,
+.fa-database {
+  font-size: 150px;
+  padding: 30px;
+}
+
+.main-container {
+  padding-bottom: 30px;
+}
